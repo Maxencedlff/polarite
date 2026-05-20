@@ -4,7 +4,7 @@ Un jeu d'arcade néon, jouable au doigt, **entièrement généré par Claude Cod
 
 > Tu es un noyau instable. Change ta **polarité** pour absorber les particules de ta couleur, esquive celles de la couleur opposée. Plus tu enchaînes, plus ça monte.
 
-🎮 **Jouer :** [polarite](https://polarite.vercel.app)
+🎮 **Jouer :** [polarite](https://polarite-neon.vercel.app)
 
 ## Comment jouer
 - **Déplacer** : glisse le doigt (mobile) ou la souris (desktop)
